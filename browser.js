@@ -1,8 +1,6 @@
 var ipc 			= require('ipc'),
 	fs 				= require('fs'),
-	shell 			= require('shell'),
 	uglifyjs 		= require('uglify-js'),
-	tsc 			= require('typescript-compiler'),
 	LiveScript		= require('livescript'),
 	path 			= require('path'),
 	Gaze 			= require('gaze'),
